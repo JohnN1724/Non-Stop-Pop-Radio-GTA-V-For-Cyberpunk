@@ -1,0 +1,32 @@
+Hello Choomba thanks for downloading the NSP Radio Mod!!!
+
+///////////////// INSTALLATION NOTES \\\\\\\\\\\\\\\\\\\\
+
+1. MAKE SURE YOU HAVE RADIOEXT DOWNLOADED AND INSTALLED FIRST
+AS THIS MOD WON'T WORK WITHOUT IT!!!!
+
+2. Follow the file path in downloaded file and place these files
+in your Cyberpunk game to install the mod
+
+3. Enjoy the tunes my choom!
+
+///////// IF YOU ALREADY HAVE CUSTOM RADIO \\\\\\\\\\\\\\
+/////// STATIONS INSTALLED PLEASE READ THIS! \\\\\\\\\\\\\
+
+1. If you already custom radio stations install the mod
+like you have for your existing radioExt stations
+
+2. In your radiosInfo.json file add "NSP Radio" to your paths
+for the station to be found
+
+3. In the radio's metadata.json file (found in the NSP Radio
+folder) the fm channel is set to 102.9, if you have other radio
+stations set to this value already feel free to change the value to
+whatever you fancy (change the value in the display name too if you
+want everything to match!)
+
+4. Enjoy the tunes my choom!
+
+If you have any issues with installation or the mod itself or any requests/
+suggestions to what radio stations to make next, please let me know in the
+community tab of this mod!

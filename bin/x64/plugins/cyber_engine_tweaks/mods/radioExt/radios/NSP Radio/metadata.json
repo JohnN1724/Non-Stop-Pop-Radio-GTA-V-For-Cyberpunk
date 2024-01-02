@@ -1,0 +1,11 @@
+{
+    "displayName" : "102.9 Non Stop Pop Radio",
+    "fm" : 102.9,
+    "icon" : "UIIcon.alcohol_absynth",
+    "customIcon": {
+        "inkAtlasPath": "\\Cyberpunk 2077\\archive\\pc\\mod\\Valency Icons Assets.archive",
+        "inkAtlasPart": "valency_misc.inkatlas love",
+        "useCustom": true
+    },
+    "volume" : 1.75
+}
